@@ -6,5 +6,5 @@ Inside this class we will work on Real-World datasets, to solve Real-World busin
 2) Convolutional Neural Networks for Image Recognition
 3) Recurrent Neural Networks to predict Stock Prices
 4) Self-Organizing Maps to investigate Fraud
-5) Boltzmann Machines to create a Recomender System
+5) Boltzmann Machines to create a Recommender System
 6) Stacked Autoencoders* to take on the challenge for the Netflix $1 Million prize
