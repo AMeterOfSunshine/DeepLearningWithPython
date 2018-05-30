@@ -1,4 +1,4 @@
-# DeepLearningWithPython
+# DeepLearningWithPython | Summer 2018
 
 Inside this repository, I will work on Real-World datasets, to solve Real-World business problems. (Definitely not the boring iris or digit classification datasets that we see in every course). In this course I will solve six real-world challenges:
 
